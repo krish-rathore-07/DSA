@@ -1,8 +1,7 @@
-package Blind75;
+package Array.Medium;
 
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.List;
 
 public class TwoSum {

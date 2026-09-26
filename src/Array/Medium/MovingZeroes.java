@@ -1,4 +1,4 @@
-package Blind75;
+package Array.Medium;
 
 
 // Moving the zeroes in the end of the array

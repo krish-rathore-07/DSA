@@ -1,4 +1,4 @@
-package Array_Basics;
+package Array.Basics;
 
 public class Check_Sorted_Array {
     public static boolean IsArraySorted(int arr[] ){

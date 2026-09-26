@@ -1,6 +1,14 @@
-package Array_Basics;
+package Array.Basics;
 
 public class Largest_Element {
+
+    //finding the largest element without making any other variable
+    public static int findLargestWithoutMakingAnyVariable(int arr[]){
+        for(int i :arr){
+            if(arr[0]<i) arr[0]=i;
+        }
+        return arr[0];
+    }
 
     public static void largest(int arr[]){
         int largest = arr[0];

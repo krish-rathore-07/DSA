@@ -1,4 +1,4 @@
-package Array_Basics;
+package Array.Basics;
 
 import java.util.ArrayList;
 import java.util.TreeSet;

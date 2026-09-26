@@ -1,4 +1,4 @@
-package Blind75;
+package Array.Medium;
 
 public class MaximumSubarray {
 

@@ -1,4 +1,4 @@
-package Array_Basics;
+package Array.Basics;
 
 public class LinearSearch {
 
