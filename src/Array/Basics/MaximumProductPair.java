@@ -28,6 +28,6 @@ public class MaximumProductPair {
     }
         public static void main(String args[]){
             int arr[] = {1,23,56,2,7,9,54,3};
-            System.out.println(maxProduct(arr));
+            System.out.println("Maximum Product of two numbers in array are : " + maxProduct(arr));
     }
 }
