@@ -19,7 +19,7 @@ public class PrimeFactor {
     public static ArrayList<Integer> primeFactor(int num){
         int limit = (int)Math.sqrt(num);
         ArrayList<Integer> list = new ArrayList<>();
-        for(int i= 1;i<=num/2;i++){
+        for(int i= 1;i<=num;i++){
             if(num%i==0 && isPrime(i)){
                 list.add(i);
             }
