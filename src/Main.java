@@ -2,7 +2,8 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 void main() {
 
-    for(int i= 0 ;i<5;i++){
-        System.out.println("Jai Shree Ram "+i);
+    for (int i = 0; i < 5; i++) {
+        System.out.println("Jai Shree Ram " + i);
     }
 }
+
